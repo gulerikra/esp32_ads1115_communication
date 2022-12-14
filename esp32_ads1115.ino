@@ -15,7 +15,7 @@ void loop(void)
 int16_t adc0;
 
 adc0 = ads.readADC_SingleEnded(0);
-Voltage = (adc0 * 0.1875)/1000;
+Voltage = (adc0 * 0.1875)/1000;  //adc değerini, 0.1875'in ADS1115'in çözünürlüğü olduğu voltaja dönüştürür
 
 Serial.print("AIN0: "); 
 Serial.print(adc0);
