@@ -1,5 +1,5 @@
 # ESP32 ile ADS1115 okuması
-Arduino üzerinden esp32 ile ads1115 haberleşmesi.
+ESP32 ile ADS1115 haberleşmesi.
 
 
 Bağlantı;
