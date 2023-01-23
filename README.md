@@ -1,6 +1,8 @@
 # ESP32 ile ADS1115 okuması
 ESP32 ile ADS1115 haberleşmesi.
 
+Bu haberleşmede I2C haberleşme protokolü kullanılacaktır.
+
 
 Bağlantı;
 
