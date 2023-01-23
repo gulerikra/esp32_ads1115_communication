@@ -10,7 +10,3 @@ Bağlantı;
 
 A0 pini analog voltaj sinyali ile beslenir.
 
-
-ADS1115 kartı;
-
-![asddd](https://user-images.githubusercontent.com/62421679/214128673-e8be2cf0-4e89-4c63-8bcb-b20cad772721.png)
